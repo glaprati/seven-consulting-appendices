@@ -20,6 +20,7 @@ Loadings of the 5 variables on the PC1 and PC2 for strikers
 Pearson correlation formula
 ![image](https://github.com/user-attachments/assets/e9ce0ddc-ccd2-4c97-966e-cd1c4b7db655)
 
+
 Normalization formula
 ![image](https://github.com/user-attachments/assets/2dbefe39-6f16-41b6-a6a0-2e22a7a9a2b6)
 
