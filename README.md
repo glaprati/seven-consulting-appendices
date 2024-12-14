@@ -4,6 +4,9 @@ formulas, figure and graphs we could not fit inside the PDF
                                                           Sentimental analysis for Dybala
 ![image](https://github.com/user-attachments/assets/77cb951e-4886-4c2d-9a67-a892248fe991)
                                                           Sentimental analysis for cristante
+![image](https://github.com/user-attachments/assets/4e1d18d3-b803-47b4-9a5f-7173a8a97448)
+Percantage of variance explained by the PC for midfielders
+                                                        
 
 
 
