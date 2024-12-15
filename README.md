@@ -1,5 +1,5 @@
 # seven-consulting-appendices
-Figure 1: entiment analysis for Dybala
+Figure 1: sentiment analysis for Dybala
 ![image](https://github.com/user-attachments/assets/6c5e637e-a5e7-48b0-8100-c817512a003c)
 
 Figure 2: sentiment analysis for cristante
